@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-oath-447611-g8",
+  "private_key_id": "82436aed9c7f22ba913a14d413ccbe49ed028ab4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBfvWcI1kT3PPF\ny10H8QsyHkOrfBzCe3EKvjfzD5H2p1rfZiFHhTm0MPYgUvrwtFb24/ou8KXSHiIY\nSnbuX/IAvzCocLSp1DQTw+t/Lu/rCWf/Y/CLkIii1sM4ZEoR0TmxQ8c5HbzMpD4k\nr402uTmS5oNCvf+oFHSaQ8r7jQUftYTXaCPebugWSWnTU8clBRZqEKvUaYX6JrWk\niXYiWwgO6j+PKvlOyYKQHgTxiWHjZL3rqP6nG+/pn2t9vRTlUOdXr100LTMOwG6M\nkz7AXbhU4CHnr0chz4VwB5VvJLilIyyqKsOIT8BGmc+O7FcpOVuXCVXAoLAJGSrv\ns+MsuPeRAgMBAAECggEAB7bzfT+8ira/W//yDA6Pr9y2JBVtKR58upBGEOSqepwG\ndIwKhu+euU3PCY/KNDdTroEwhaQWT55GpWzJbDlUX83y11hmn5nK3/N3a9xeRO/D\nHxMOcWYR4ib8mBg8vfqdszD2XCAQwCD+EeTgIeuSVwZmFKhlU8x8lkHEy0qk7TQz\n4+6Mr65zFSZGse08ztUWXvxZJYoODLk+mIj15HBnn4sNmyhIhrB109EXQSJgMW2X\nZ2M32E72haCZrcbUB+3eE7jDseEC4ym3gCYc+J4NjECkPLlUa1sqotzVMmHmzrLE\nwtL3ytfXd7dECdWpUIXW0tu3yOsr+YhhN3vQftpHxQKBgQD8jc4BXpaPiFAZsELG\nHJKshaveX3uVfABTeoOht12+bSkUUvVFxIFZ3WnbLIZr3Hnc5yIHT4TK/HFFiQjg\nEh27xMNsVfRIGQWToE80NpxHF+xV6xzOdiD4xAy/a8b+zDyDViJqnBUcywRTSNfv\nu+yFvHLTVJrMZoOs6fW4vawFBQKBgQDEItwD6zc43XlB2ia8b1MTk0ALa93jNayw\nR80cNUVSTD2cLZaYCWnngjrEVwnG/pOZ2018n23B2gd2ekpJUMDOGTC5++IbU7mu\n3NfpIsw6TIQ3O1oZGUvIehW+VhrdaqTYxw49JWw1D5gdmNLDBiN2I4t1bpbZ/TlH\nlQVtyfeuHQKBgBaTDlDtBYQ66P4C1VUkBLBLGnu8CS3pcZYEo3N3EngNBdj9OVNN\nJ0rDEc03g6RshrAKMO56WyJRwkY244Yz2FiKU/WBEV7IbckuUSYXo4xvRP7BD0gd\nIwFZdNI/bgAkfVw3/MeOwAxc0TwojLSvFYs2twTQ0S1oFGkGWKJ0wcWJAoGBALoR\njAIXuiqzSR6k80yenASdFAwBx92OBQazBy20h9AcTfKE+THA9HxReqjbHYZv6tzy\nRJ9uq/RUf/Hw79p/xnl/Qk+eWpGsKyJtllMw1OiVwHSZVM8sxU0qLMiF7TSSwFJ6\n/NIbV307Dwc8/O1RPIEOFXZRdMDWzulOwXi3OsYtAoGAJ9iOIM7miGS9ofU72KR8\nGAEkwUQeLeEo70Q49SPLFU/GCf2QqpdaGe9f9935xtt449tXg2fphCoJ69KHQewH\nmqoyQTko0Fhx6WpZniBLTn4WFhChx1p/R3EjKfhagk/8tEAlSBmdmUNPtPBTgGzz\n7Xq+VufLD2Yi26HBsCnVGWc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-api@mindful-oath-447611-g8.iam.gserviceaccount.com",
+  "client_id": "113587959788298489511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-api%40mindful-oath-447611-g8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
