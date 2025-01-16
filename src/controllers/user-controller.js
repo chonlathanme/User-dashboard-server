@@ -6,8 +6,9 @@ const drive = google.drive("v3"); // กำหนด drive จาก googleapis
 // กำหนดค่าคงที่
 const KEYFILEPATH = path.join(
   __dirname,
-  "../../config/mindful-oath-447611-g8-82436aed9c7f.json"
+  "../../config/mindful-oath-447611-g8-db682903260e.json"
 );
+
 const SPREADSHEET_ID = "1G3YOWeTKl2zmBFZb98NbEn2WpJIaUW9Awd-BS8CTcjk";
 const SCOPES = [
   "https://www.googleapis.com/auth/spreadsheets", // สิทธิ์ในการเข้าถึง Google Sheets
