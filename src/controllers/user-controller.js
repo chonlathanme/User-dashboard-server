@@ -87,7 +87,7 @@ module.exports.getUsers = async (req, res) => {
 module.exports.createUserData = async (req, res, next) => {
   try {
     const auth = new google.auth.GoogleAuth({
-      keyFile: KEYFILEPATH,
+      credentials: KEYFILEPATH,
       scopes: SCOPES,
     });
 
